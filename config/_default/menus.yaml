@@ -1,0 +1,101 @@
+leftnav:
+- identifier: 3c0463aa-f2af-7a44-30bf-e0339a51ad98
+  name: Syllabus
+  pageRef: /pages/syllabus
+  weight: 10
+- identifier: 6562489f-c4d9-c29b-0412-3572e34d18ea
+  name: Calendar
+  pageRef: /pages/calendar
+  weight: 20
+- identifier: dbc0ee52-ebc3-2b0a-7e5f-4267b5bbd12d
+  name: Instructor Insights
+  pageRef: /pages/instructor-insights
+  weight: 30
+- identifier: 7103cb68-eb88-f95a-1ced-be866eb26c58
+  name: Reading, Viewing, and Listening
+  pageRef: /pages/reading-viewing-and-listening/
+  weight: 40
+- identifier: c22968d7-8b43-ba92-f595-dcaa45809848
+  name: Reading Questions for Session 2
+  pageRef: /pages/reading-viewing-and-listening/reading-questions-for-session-2
+  parent: 7103cb68-eb88-f95a-1ced-be866eb26c58
+  weight: 50
+- identifier: 3a11fc9b-cf1d-50b1-c7a8-f0d8f1a774c8
+  name: Reading Questions for Session 3
+  pageRef: /pages/reading-viewing-and-listening/reading-questions-for-session-3
+  parent: 7103cb68-eb88-f95a-1ced-be866eb26c58
+  weight: 60
+- identifier: 3c4842c0-8d05-7fd6-8b8e-360b8beccb79
+  name: Reading Questions for Session 4
+  pageRef: /pages/reading-viewing-and-listening/reading-questions-for-session-4
+  parent: 7103cb68-eb88-f95a-1ced-be866eb26c58
+  weight: 70
+- identifier: d08f006a-b8a2-b786-a47c-48f32b9db3af
+  name: Reading Questions for Session 6
+  pageRef: /pages/reading-viewing-and-listening/reading-questions-for-session-6
+  parent: 7103cb68-eb88-f95a-1ced-be866eb26c58
+  weight: 80
+- identifier: 5a19ded2-8bb3-477e-bb55-135a2206da9e
+  name: Reading Questions for Session 7
+  pageRef: /pages/reading-viewing-and-listening/reading-questions-for-session-7
+  parent: 7103cb68-eb88-f95a-1ced-be866eb26c58
+  weight: 90
+- identifier: 742129c4-30e7-911f-9adc-6b6b8d32cd33
+  name: Reading Questions for Session 8
+  pageRef: /pages/reading-viewing-and-listening/reading-questions-for-session-8
+  parent: 7103cb68-eb88-f95a-1ced-be866eb26c58
+  weight: 100
+- identifier: 22b0ebdc-4e97-53bf-5156-104d51760129
+  name: Reading Questions for Session 10
+  pageRef: /pages/reading-viewing-and-listening/reading-questions-for-session-10
+  parent: 7103cb68-eb88-f95a-1ced-be866eb26c58
+  weight: 110
+- identifier: 303ae030-74a4-5032-8e6d-1ab996553acf
+  name: Reading Questions for Session 12
+  pageRef: /pages/reading-viewing-and-listening/reading-questions-for-session-12
+  parent: 7103cb68-eb88-f95a-1ced-be866eb26c58
+  weight: 120
+- identifier: 08b471eb-767a-2586-393a-47d0253bd4b4
+  name: Reading Questions for Session 13
+  pageRef: /pages/reading-viewing-and-listening/reading-questions-for-session-13
+  parent: 7103cb68-eb88-f95a-1ced-be866eb26c58
+  weight: 130
+- identifier: 7ef3b11b-8359-4936-4751-4bb0f292474f
+  name: Reading Questions for Session 14
+  pageRef: /pages/reading-viewing-and-listening/reading-questions-for-session-14
+  parent: 7103cb68-eb88-f95a-1ced-be866eb26c58
+  weight: 140
+- identifier: dd59cdcd-2348-1ac3-6952-9bc4a7a39d22
+  name: Reading Questions for Session 16
+  pageRef: /pages/reading-viewing-and-listening/reading-questions-for-session-16
+  parent: 7103cb68-eb88-f95a-1ced-be866eb26c58
+  weight: 150
+- identifier: 4538fe6f-9781-1968-a8c1-0e16f8db4aca
+  name: Reading Questions for Session 17
+  pageRef: /pages/reading-viewing-and-listening/reading-questions-for-session-17
+  parent: 7103cb68-eb88-f95a-1ced-be866eb26c58
+  weight: 160
+- identifier: 2dc22939-360f-c850-9eea-6cc7769305d4
+  name: Reading Questions for Session 18
+  pageRef: /pages/reading-viewing-and-listening/reading-questions-for-session-18
+  parent: 7103cb68-eb88-f95a-1ced-be866eb26c58
+  weight: 170
+- identifier: 07ef5cb2-49ed-6c2a-5962-1788eea19d06
+  name: Reading Questions for Session 19
+  pageRef: /pages/reading-viewing-and-listening/reading-questions-for-session-19
+  parent: 7103cb68-eb88-f95a-1ced-be866eb26c58
+  weight: 180
+- identifier: da4a284e-b6ba-48be-e897-fafd16da74c8
+  name: Reading Questions for Session 23
+  pageRef: /pages/reading-viewing-and-listening/reading-questions-for-session-23
+  parent: 7103cb68-eb88-f95a-1ced-be866eb26c58
+  weight: 190
+- identifier: af8b07bf-78df-4f0d-9ceb-2d3691069e00
+  name: Reading Questions for Session 24
+  pageRef: /pages/reading-viewing-and-listening/reading-questions-for-session-24
+  parent: 7103cb68-eb88-f95a-1ced-be866eb26c58
+  weight: 200
+- identifier: b8c0ab81-a76e-d0d5-d80e-84348fbc0a8b
+  name: Assignments
+  pageRef: /pages/assignments
+  weight: 210
